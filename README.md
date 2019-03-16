@@ -1,6 +1,6 @@
 # Chatkit Rich Link Previews
 
-View rich link previews for web content shared in a Chatroom. Tutorial:
+View rich link previews for web content shared in a Chatroom. Tutorial: https://pusher.com/tutorials/link-previews-react-chatroom
 
 ## Getting Started
 
